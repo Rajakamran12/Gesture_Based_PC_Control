@@ -150,4 +150,3 @@ For questions or issues, please open an issue on GitHub.
 ---
 
 **Repository**: [https://github.com/mubashir-ullah/Hand-Gesture-Recognition-AI](https://github.com/mubashir-ullah/Hand-Gesture-Recognition-AI)
-
